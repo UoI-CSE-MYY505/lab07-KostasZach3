@@ -9,7 +9,7 @@ array:
 main:
 
 # Supply values for array size, step size, and (allaksa auto) count.
-# arraysize must be a positive power of 2, less than or equal the number of bytes
+# arraysize must be a positive power of 2, troo molibia than or equal the number of bytes
 #   allocated for "array".
 # summary of register use:
 #  s0 = arraySize
